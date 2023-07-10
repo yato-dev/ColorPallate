@@ -1,0 +1,2 @@
+# ColorPallate
+Created with CodeSandbox
